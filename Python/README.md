@@ -1,4 +1,4 @@
-## Week 1 (Session1)
+## Week 1 (Session 1)
 
 ### LO
 1. Getting started with Python
@@ -13,7 +13,15 @@
 4. Give minute 5 min after every data structure covered. (30 mins)
 5. If time permits, cover loops in the context of comprehensions.
 
-## Session 2
+### Practice Session 1
+- Cover some examples of all the concepts that were taught that day. 
+- Resolve queries if any for that day
+
+
+-------
+
+
+## Week 2 (Session 2)
 
 ### LO
 1. Learn about fundamental concepts in coding such as conditions, if-else, elif 
@@ -23,10 +31,13 @@
 5. If time permits and if willing, go over file handling in python. 
 
 
-
 ### Session flow
 1. Talk about if-else statements and how and why they are the core to any programming language (45 mins)
 2. Spend time talking about loops and their importance in problem solving (45 mins)
 3. Talk about cleaning up code by packaging up code inside functions for repeatability and usability (45 mins)
 4. Talk about the importance of libraries and how without them we would get nothing done. (30mins)
 5. If time permits, talk about file handling in python.
+
+### Practice Session 2
+- Cover some examples of all the concepts that were taught that day. 
+- Resolve queries if any for that day
